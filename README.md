@@ -43,7 +43,7 @@ To get a local copy up and running, follow these simple steps. **Currently only 
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/your_username/awas-guncang.git
+    git clone https://github.com/hanjpk/awas-guncang.git
     ```
 2.  Navigate to the project directory
     ```sh
