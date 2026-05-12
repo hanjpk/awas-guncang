@@ -1,5 +1,8 @@
 # Awas Guncang: A Mobile App for Future InaEEWS Dissemination
 
+## Publikasi
+[https://www.e3s-conferences.org/articles/e3sconf/abs/2025/77/e3sconf_icdmm2025_04001/e3sconf_icdmm2025_04001.html](https://www.e3s-conferences.org/articles/e3sconf/abs/2025/77/e3sconf_icdmm2025_04001/e3sconf_icdmm2025_04001.html)
+
 **Awas Guncang** is a mobile application developed as part of a research project focused on the future dissemination of the Indonesian Earthquake Early Warning System (InaEEWS). This app is designed to be a proof-of-concept for how warnings and information from InaEEWS can be effectively delivered to the public using modern mobile technologies.
 
 This project is the implementation component of the undergraduate thesis titled: *"Design and Implementation of Awas Guncang: a Mobile App for Future Dissemination of InaEEWS"*.
